@@ -1,0 +1,8 @@
+1.) What are the battery parameters: Battery type, battery voltage, baterry capacity. Maximum how many batteries to be connected per site, in series or parallel, is it required to monitor internal resistance?
+
+2.) What is the use case: Where is it used, where is it setup, why need to support up to 70 Celsius degrees, what is the system doing? Sample setup location. "electronic components themselves are difficult to maintain high performance at high temperatures, so it's hard to achieve.
+At the same time, the battery itself can not withstand high temperature environment, it is easy to cause bulging & danagerous!"
+
+3.) Does the meassurement accurancy need to be precise? Tolerance: +-2%?
+
+4.) Any budget limit for this project?
